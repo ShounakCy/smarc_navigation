@@ -30,7 +30,7 @@ void OdomCallback(const nav_msgs::Odometry& odom_msg)
     current_pitch.data= p;
     current_roll.data= r;
     current_yaw.data= y;
-    current_depth.data= odom_msg.pose.pose.position.z;
+    current_depth.data= -odom_msg.pose.pose.position.z;
     current_x.data= odom_msg.pose.pose.position.x;
     current_y.data= odom_msg.pose.pose.position.y;
 
@@ -76,7 +76,7 @@ int main(int argc, char** argv){
   ros::Publisher feedback_p = node.advertise<std_msgs::Float64>("p", freq);
   ros::Publisher feedback_q = node.advertise<std_msgs::Float64>("q", freq);
   ros::Publisher feedback_r = node.advertise<std_msgs::Float64>("r", freq);
-  ros::Publisher feedback_alt = node.advertise<std_msgs::Float64>("alt", freq);
+  ros::Publisher feedback_alt = node.advertise<std_msgs::Float64>("altitude", freq);
 
   ros::Rate rate(10.0);
   while (node.ok()){

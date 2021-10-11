@@ -262,9 +262,9 @@ class SamACC(object):
 
         # Dynamics
         invM = np.linalg.inv(M)
-        nugeta = nu - geta
+        #nugeta = nu - geta
         crbd = C_RB + D
-        other = crbd.dot(nugeta)
+        other = crbd.dot(nu)-geta
         other2 = tauc - other
         nudot = invM.dot(other2)
 

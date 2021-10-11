@@ -10,7 +10,7 @@
 
 <node pkg="tf2_ros" type="static_transform_publisher" name="map_odom_broadcaster" args="0 0 0 0 0 0 1 map $(arg robot_name)/odom"/>
 
-<node pkg="copy_tf_lat_lon" type="odom_to_tf_node" name="odom_to_tf_node" output="screen">
+<node pkg="tf_lat_lon" type="odom_to_tf_node" name="odom_to_tf_node" output="screen">
     <param name="robot_name" value="$(arg robot_name)"/>
 </node>
 

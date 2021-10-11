@@ -1,0 +1,406 @@
+header: 
+  seq: 9433
+  stamp: 
+    secs: 1617039011
+    nsecs: 398101388
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.021418256435
+  y: 0.134868557163
+  z: -0.00377173691123
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 20.2194287962
+beams: []
+---
+header: 
+  seq: 9434
+  stamp: 
+    secs: 1617039011
+    nsecs: 599513806
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0219372462501
+  y: -0.0523152810397
+  z: -0.00511468275187
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 20.5542563711
+beams: []
+---
+header: 
+  seq: 9435
+  stamp: 
+    secs: 1617039011
+    nsecs: 798201996
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0242022450784
+  y: -0.0744948293395
+  z: 0.00188580823126
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.6784455844
+beams: []
+---
+header: 
+  seq: 9436
+  stamp: 
+    secs: 1617039011
+    nsecs: 999542085
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.021624826508
+  y: 0.121180703303
+  z: 0.00256433887316
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.6371585881
+beams: []
+---
+header: 
+  seq: 9437
+  stamp: 
+    secs: 1617039012
+    nsecs: 197865555
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0199590271301
+  y: 0.0944547949325
+  z: -0.00640092295364
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 20.7097596372
+beams: []
+---
+header: 
+  seq: 9438
+  stamp: 
+    secs: 1617039012
+    nsecs: 399319670
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0219333793451
+  y: -0.0944588391811
+  z: -0.0023354122791
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 20.0697879219
+beams: []
+---
+header: 
+  seq: 9439
+  stamp: 
+    secs: 1617039012
+    nsecs: 599787243
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0228749259534
+  y: -0.0239124154793
+  z: 0.00411571617802
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.8341678167
+beams: []
+---
+header: 
+  seq: 9440
+  stamp: 
+    secs: 1617039012
+    nsecs: 800587954
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0222206525114
+  y: 0.151311587741
+  z: 0.00218282917776
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.6213509752
+beams: []
+---
+header: 
+  seq: 9441
+  stamp: 
+    secs: 1617039013
+    nsecs:     36647
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0243551882741
+  y: 0.0398612838105
+  z: -0.00736624968014
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 20.9746908435
+beams: []
+---
+header: 
+  seq: 9442
+  stamp: 
+    secs: 1617039013
+    nsecs: 199447925
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0230280629875
+  y: -0.111015052
+  z: 0.00119954576714
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.6812169386
+beams: []
+---
+header: 
+  seq: 9443
+  stamp: 
+    secs: 1617039013
+    nsecs: 408497130
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0191633795286
+  y: 0.0378552880757
+  z: 0.00347278117656
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.8782864189
+beams: []
+---
+header: 
+  seq: 9444
+  stamp: 
+    secs: 1617039013
+    nsecs: 602219981
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0220938858181
+  y: 0.15082740391
+  z: -0.00222753903209
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.9484545987
+beams: []
+---
+header: 
+  seq: 9445
+  stamp: 
+    secs: 1617039013
+    nsecs: 796935646
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0208963061928
+  y: -0.0210543186234
+  z: -0.00618627378094
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 20.8344309491
+beams: []
+---
+header: 
+  seq: 9446
+  stamp: 
+    secs: 1617039013
+    nsecs: 997043828
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.022276074249
+  y: -0.0941145978749
+  z: 0.00333080612068
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.6339655071
+beams: []
+---
+header: 
+  seq: 9447
+  stamp: 
+    secs: 1617039014
+    nsecs: 219357191
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0251424849518
+  y: 0.0941142316802
+  z: 0.004884319957
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.7669124467
+beams: []
+---
+header: 
+  seq: 9448
+  stamp: 
+    secs: 1617039014
+    nsecs: 399020582
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.02274515471
+  y: 0.126178655936
+  z: -0.00430098264045
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 20.4469380552
+beams: []
+---
+header: 
+  seq: 9449
+  stamp: 
+    secs: 1617039014
+    nsecs: 604634959
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0233415583384
+  y: -0.0741743052164
+  z: -0.00404422179263
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 20.3976334283
+beams: []
+---
+header: 
+  seq: 9450
+  stamp: 
+    secs: 1617039014
+    nsecs: 798265618
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.022295685487
+  y: -0.0557222117488
+  z: 3.11331472417e-05
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.7954922771
+beams: []
+---
+header: 
+  seq: 9451
+  stamp: 
+    secs: 1617039014
+    nsecs: 998006883
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0235168777237
+  y: 0.138958433306
+  z: 0.00232957020577
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.6448112424
+beams: []
+---
+header: 
+  seq: 9452
+  stamp: 
+    secs: 1617039015
+    nsecs: 201126534
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0249691239374
+  y: 0.0741018545153
+  z: -0.00500891131815
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 20.8812337201
+beams: []
+---
+header: 
+  seq: 9453
+  stamp: 
+    secs: 1617039015
+    nsecs: 399177555
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0221180734425
+  y: -0.102805533843
+  z: -0.00266142420529
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.927942281
+beams: []
+---
+header: 
+  seq: 9454
+  stamp: 
+    secs: 1617039015
+    nsecs: 598127789
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0240599319432
+  y: -0.00162406144478
+  z: 0.00449358980503
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.9385825539
+beams: []
+---
+header: 
+  seq: 9455
+  stamp: 
+    secs: 1617039015
+    nsecs: 808368355
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.023417850879
+  y: 0.156583536649
+  z: 0.000503056387453
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.749468405
+beams: []
+---
+header: 
+  seq: 9456
+  stamp: 
+    secs: 1617039015
+    nsecs: 998302900
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0243348260046
+  y: 0.0176357085316
+  z: -0.00677269343831
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 20.9992644412
+beams: []
+---
+header: 
+  seq: 9457
+  stamp: 
+    secs: 1617039016
+    nsecs: 198110417
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0228938132488
+  y: -0.106902242929
+  z: -0.00076280796695
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.6646472468
+beams: []
+---
+header: 
+  seq: 9458
+  stamp: 
+    secs: 1617039016
+    nsecs: 403280909
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0213507579867
+  y: 0.0618377256021
+  z: 0.00469527084353
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.9185473252
+beams: []
+---
+header: 
+  seq: 9459
+  stamp: 
+    secs: 1617039016
+    nsecs: 597931866
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0253931286258
+  y: 0.146251515831
+  z: -0.00304973864382
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 20.1763808973
+beams: []
+---
+header: 
+  seq: 9460
+  stamp: 
+    secs: 1617039016
+    nsecs: 796647365
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0231664464941
+  y: -0.0405797014003
+  z: -0.00685366713279
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 20.7226335237
+beams: []
+---
+header: 
+  seq: 9461
+  stamp: 
+    secs: 1617039016
+    nsecs: 998855478
+  frame_id: "sam/dvl_link"
+velocity: 
+  x: -0.0229631726025
+  y: -0.0821257180108
+  z: 0.000771885007721
+velocity_covariance: [2.25e-06, 0.0, 0.0, 0.0, 2.25e-06, 0.0, 0.0, 0.0, 2.25e-06]
+altitude: 19.7439094647
+beams: []
+---
